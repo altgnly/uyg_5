@@ -1,0 +1,5 @@
+RC2 ve RC1 pinlerinden elde edeceðiniz PWM sinyallerini kullanarak bir DC motorun hýz ayarýný ve bir led in ýþýk þiddetini deðiþtiren uygulamayý gerçekleþtiriniz. 
+
+Not: PWM sinyallerin görev periyotlarýný birbirinden baðýmsýz olarak butonlar kullanarak deðiþtirebilecek þekilde tasarlayýnýz. PWM frekansýný makul bir deðer aralýðýnda olacak þekilde kendiniz belirleyiniz. 
+
+Not: Ürettiðiniz PWM sinyallerinin frekansýný ve görev periyotunu osiloskop üzerinden hesaplayarak doðrulayýnýz. Deney esnasýnda osiloskop kullanamayanlar ve gerekli hesaplamalarý yapamayanlar, deneyden baþarýsýz sayýlacaktýr. 
